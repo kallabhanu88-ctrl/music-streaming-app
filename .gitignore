@@ -1,0 +1,11 @@
+# Python / Flask backend
+backend/venv/
+backend/__pycache__/
+backend/*.pyc
+
+# Node / React frontend
+frontend/node_modules/
+frontend/build/
+
+# System files
+.DS_Store
